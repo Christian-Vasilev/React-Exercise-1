@@ -9,9 +9,6 @@
 # production
 /build
 
-# Solutions
-/PossibleSolutions
-
 # misc
 .DS_Store
 .env.local
